@@ -1,10 +1,10 @@
-"Adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"Tian":
+  - firstname: ["Di", "D.", "D. T.", "Di Tian"]
+    url: http://webhome.auburn.edu/~dzt0025/
 
-"Podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"Miao":
+  - firstname: ["Ruiqing", "R.", "R. M.", "Ruiqing Miao"]
+    url: https://agriculture.auburn.edu/about/directory/faculty/ruiqing-miao/
 
 "Rosen":
   - firstname: ["Nathan", "N."]
