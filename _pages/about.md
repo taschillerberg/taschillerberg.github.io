@@ -6,7 +6,7 @@ description: Graduate Research Assistant, Auburn University
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: schillerberg_pic2020.jpg
   address: >
     <p>201 Funchess Hall</p>
     <p>Auburn, AL 36832</p>
@@ -16,9 +16,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a PhD student in the Department of Crop, Soils, and Enviornmental Science at Auburn University. Where I am advised by [Di Tian](http://webhome.auburn.edu/~dzt0025/). My research interest is analyzing climate impact on agriculture and food security, climate resilient agriculture and food systems, and utility of data analytics in climate and agriculture.
+Tayler is a Ph.D. Candidate in the interdisciplinary Earth System Science program at Auburn University in the [Hydroclimate Research Group](http://webhome.auburn.edu/~dzt0025/). Tayler's research has focused on climate risks and agroclimatology, the study of the impacts of climate on agriculture. Areas of interest are climate impacts on agriculture and food security, climate resilient systems focusing on agriculture and food systems, and exposure to climate extremes. Because of the nature of these interests, Tayler has not shied away from Big Data, programming challenges, HPC systems, machine learning, and so many more statistical techniques she continues to gather knowledge on. 
 
-Prior to starting my PhD, I completed my Bachelor of Science (Meteorology) at Iowa State University. My Master's was also completed at Auburn University where I was advised by Di Tian. My theis is titled "Assessing changes and predictability of crop yields and failure risk in the United States: The Impact from Large-scale Climate Circulations."
-
-Pardon the mess, this is currently a  work in progress.
+Tayler's interest in agriculture and climate stems from her childhood. She started connecting the dots that a changing climate will affect her community, which is composed mainly of rainfed agriculture producers, expanding to global producers and food security. When not contemplating climate impacts, Tayler enjoys being creative in multiple mediums, such as painting and pottery. Staying active, she has run two half-marathons and aims to convince others to join the fun side of the running community: long runs. 
 
