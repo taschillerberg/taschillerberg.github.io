@@ -15,10 +15,9 @@ jobs:
     - name: Checkout code
       uses: actions/checkout@v2
     - name: Setup Ruby, JRuby and TruffleRuby
-      uses: ruby/setup-ruby@v1.172.0
-            
-      # with:
-      #   ruby-version: '2.7'
+      uses: ruby/setup-ruby@v1.172.0 
+      with:
+        ruby-version: '2.7'
     - name: Enable bundler cache
       uses: actions/cache@v2
       with:
