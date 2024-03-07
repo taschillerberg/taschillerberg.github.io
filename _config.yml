@@ -12,9 +12,9 @@ description: > # the ">" symbol means to ignore newlines until "footer_text:"
 footer_text: >
   Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-  Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
+  # Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
 
-icon: ⛈ # the emoji used as the favicon
+icon: 🌾 # the emoji used as the favicon ⛈️
 url:  # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/
 last_updated: false # set to true if you want to display last updated in the footer
@@ -51,10 +51,10 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 
 github_username:  taschillerberg # your GitHub user name
 gitlab_username: # your GitLab user name
-twitter_username:  TASchillerberg # your Twitter handle
-linkedin_username: # your LinkedIn user name
+twitter_username:  # TASchillerberg # your Twitter handle
+linkedin_username: tayler-schillerberg # your LinkedIn user name
 scholar_userid: gEsiS90AAAAJ&hl # your Google Scholar ID
-orcid_id: # your ORCID ID
+orcid_id: 0000-0002-8614-2450 # your ORCID ID
 medium_username: # your Medium username
 quora_username: # your Quora username
 publons_id: # your ID on Publons
@@ -66,7 +66,7 @@ wikidata_id: # your wikidata id
 dblp_url: # your DBLP profile url
 
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you. (To change: _site>index.html)
+  # You can even add a little note about which of these is the best way to reach you. (To change: _site>index.html)
 
 google_analytics: UA-XXXXXXXXX # out your google-analytics code
 panelbear_analytics: XXXXXXXXX # panelbear analytics site ID
@@ -222,3 +222,7 @@ popper:
 medium_zoom:
   version: "1.0.6"
   integrity: "sha256-EdPgYcPk/IIrw7FYeuJQexva49pVRZNmt3LculEr7zM="
+
+              - name: Setup Ruby, JRuby and TruffleRuby
+                uses: ruby/setup-ruby@v1.172.0
+            
