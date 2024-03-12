@@ -1,6 +1,6 @@
 ---
 layout: post
-title: New Publication Alert! :sparkles: 
+title: New Publication Alert!
 date: 2022-12-07 16:11:00-0400
 inline: false
 ---
