@@ -10,14 +10,14 @@ on:
 
 jobs:
   deploy:
-    runs-on: ubuntu-22.04
+    runs-on: ubuntu-latest
     steps:
     - name: Checkout code
       uses: actions/checkout@v2
     - name: Setup Ruby, JRuby and TruffleRuby
       uses: ruby/setup-ruby@v1.172.0 
       with:
-        ruby-version: '3.0'
+        ruby-version: '3.4'
     - name: Enable bundler cache
       uses: actions/cache@v4
       with:
