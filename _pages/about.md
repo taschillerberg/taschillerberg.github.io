@@ -2,14 +2,14 @@
 layout: about
 title: about
 permalink: /
-description: Graduate Research Assistant, Auburn University 
+description: Postdoctoral Research Assistant, Iowa State University 
 
 profile:
   align: right
   image: schillerberg_pic2020.jpg
   address: >
-    <p>201 Funchess Hall</p>
-    <p>Auburn, AL 36832</p>
+    <p>320 East Hall</p>
+    <p>Ames, IA 50011</p>
 
 news: true  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
